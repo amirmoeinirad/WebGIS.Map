@@ -1,0 +1,6 @@
+@WebGIS.Api_HostAddress = http://localhost:5291
+
+GET {{WebGIS.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
